@@ -54,6 +54,26 @@ touch api.js  (to create the file)
 
 vim api.js  (to open)
 
+MODELS
+
+Model is the heart of JS, and it makes it interactive
+
+npm install mongoose
+
+mkdir models
+
+cd models
+
+touch todo.js
+
+mkdir models && cd models && touch todo.js
+
+vim todo.js (to open the todo.js file)
+
+vim api.js (to open, delete the exiting command via :%d)
+
+
+
 
 
 
