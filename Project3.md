@@ -1,4 +1,4 @@
-#Backend Config for MERN Stack Implementation#
+# Backend Config for MERN Stack Implementation
 
 sudo apt update
 
@@ -40,20 +40,20 @@ node index.js
 
 ![Screenshot from 2022-07-16 06-27-29](https://user-images.githubusercontent.com/106885875/179341224-fa630514-8058-4086-bd36-1abab09a4bba.png)
 
-
-Route
+---
+*Route*
 
 To create routes that will define various endpoints that the To-do app will depend on
 
 mkdir routes
 
-cd routes
+**cd routes
 
 touch api.js (to create the file)
 
 vim api.js (to open)
 
-MODELS
+__*MODELS
 
 Model is the heart of JS, and it makes it interactive
 
@@ -73,9 +73,9 @@ vim api.js (to open, delete the exiting command via :%d)
 
 NB: todo.js and api.js files updated appropriately
 
-##Mongo Database##
+__Mongo Database
 
-Comment: I created my Monogdb account and activated a user accound and connected to a cluster
+**Comment: I created my Monogdb account and activated a user accound and connected to a cluster
 
 ![Screenshot from 2022-07-16 06-42-57](https://user-images.githubusercontent.com/106885875/179341765-57744c22-70b9-4369-b5c5-58c2c6591f11.png)
 
@@ -91,7 +91,7 @@ To Test the backend code
 
 Installed Postman, activated accout and learnt CRUD operations
 
-created a POST request on Postman
+**created a POST request on Postman
 
 ![Screenshot from 2022-07-16 07-01-34](https://user-images.githubusercontent.com/106885875/179342284-9fe9b818-677e-4b99-8384-f7f9a4c302f7.png)
 
@@ -99,16 +99,16 @@ created a GET request on Postman
 
 ![Screenshot from 2022-07-16 07-02-10](https://user-images.githubusercontent.com/106885875/179342325-b087fdca-f362-4775-92a0-772966d6ff87.png)
 
-FrontEnd Creation
+> FrontEnd Creation
 
-Commnet: This is to have a graphical user interface GUI for my webclient to interact with my API
+*Commnet: This is to have a graphical user interface GUI for my webclient to interact with my API
 
 Ran the following code command on my Root Directory
 
 npx create-react-app client
 (this creates Directory called client, which is where i ran my react codes)
 
-Below Dependencies required before my react App can be succesfully tested
+> Below Dependencies required before my react App can be succesfully tested
 
 npm install concurrently --save-dev
 
@@ -118,7 +118,7 @@ Updated my Package.json file on my Root Directory
 
 ![Screenshot from 2022-07-16 07-14-34](https://user-images.githubusercontent.com/106885875/179342660-d9437bb2-6b6d-4b94-9ff6-db02488d17db.png)
 
-Started my development server from my Root
+> Started my development server from my Root
 
 npm run dev
 
