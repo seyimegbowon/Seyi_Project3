@@ -47,13 +47,13 @@ To create routes that will define various endpoints that the To-do app will depe
 
 mkdir routes
 
-**cd routes
+**cd routes**
 
 touch api.js (to create the file)
 
 vim api.js (to open)
 
-__*MODELS
+__*MODELS*_
 
 Model is the heart of JS, and it makes it interactive
 
@@ -73,9 +73,9 @@ vim api.js (to open, delete the exiting command via :%d)
 
 NB: todo.js and api.js files updated appropriately
 
-__Mongo Database
+__Mongo Database__
 
-**Comment: I created my Monogdb account and activated a user accound and connected to a cluster
+**Comment: I created my Monogdb account and activated a user accound and connected to a cluster**
 
 ![Screenshot from 2022-07-16 06-42-57](https://user-images.githubusercontent.com/106885875/179341765-57744c22-70b9-4369-b5c5-58c2c6591f11.png)
 
@@ -91,7 +91,7 @@ To Test the backend code
 
 Installed Postman, activated accout and learnt CRUD operations
 
-**created a POST request on Postman
+**created a POST request on Postman**
 
 ![Screenshot from 2022-07-16 07-01-34](https://user-images.githubusercontent.com/106885875/179342284-9fe9b818-677e-4b99-8384-f7f9a4c302f7.png)
 
@@ -101,7 +101,7 @@ created a GET request on Postman
 
 > FrontEnd Creation
 
-*Commnet: This is to have a graphical user interface GUI for my webclient to interact with my API
+*Comment: This is to have a graphical user interface GUI for my webclient to interact with my API*
 
 Ran the following code command on my Root Directory
 
