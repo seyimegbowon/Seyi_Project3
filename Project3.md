@@ -36,7 +36,7 @@ To close- Press ESC, :w to save and :qa to exit
 
 node index.js
 
-![Screenshot from 2022-07-16 06-24-53](https://user-images.githubusercontent.com/106885875/179341163-edbcb6a3-b2f9-4533-b6a3-7b4b744a7cfa.png)
+![Screenshot from 2022-07-16 06-51-42](https://user-images.githubusercontent.com/106885875/179342078-d79eab9b-7f1a-483f-b127-a2e499307358.png)
 
 ![Screenshot from 2022-07-16 06-27-29](https://user-images.githubusercontent.com/106885875/179341224-fa630514-8058-4086-bd36-1abab09a4bba.png)
 
