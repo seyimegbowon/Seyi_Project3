@@ -124,9 +124,9 @@ npm run dev
 
 ![Screenshot from 2022-07-14 09-31-43](https://user-images.githubusercontent.com/106885875/179342830-827e94b6-db1f-49dd-aa2b-c9590e697aa0.png)
 
-Created my React components
+* Created my React components
 
-Created a new Directory called components in my src directory (Todo/Client/src)
+* Created a new Directory called components in my src directory (Todo/Client/src)
 
 mkdir components
 
@@ -134,11 +134,11 @@ created three (3) files inside the new directory
 
 touch Input.js ListTodo.js Todo.js
 
-updated Input.js file and ran the below code in my client directory
+> updated Input.js file and ran the below code in my client directory
 
 npm install axios
 
-updated ALL the files in my components directory and src directory with new codes
+> updated ALL the files in my components directory and src directory with new codes
 
 run npm run dev
 
