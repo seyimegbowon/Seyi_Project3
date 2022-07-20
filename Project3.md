@@ -1,6 +1,6 @@
 # Backend Config for MERN Stack Implementation
 
-__commencing the project Documentation__
+> __commencing the project Documentation__
 
 * sudo apt update
 
