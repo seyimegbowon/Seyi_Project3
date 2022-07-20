@@ -1,20 +1,22 @@
 # Backend Config for MERN Stack Implementation
 
-sudo apt update
+__commencing the project Documentation__
+
+* sudo apt update
 
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - (to locate where node.js is in ubuntu repository)
 
 sudo apt-get install -y nodejs (this installs nodejs and npm)
 
-To verify the node and npm
+* To verify the node and npm
 
 node -v
 
 npm -v
 
-Create a new Dir (Todo) for my project
+* Create a new Dir (Todo) for my project
 
-mkdir Todo
+* mkdir Todo
 
 cd Todo
 
